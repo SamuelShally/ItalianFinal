@@ -1,79 +1,79 @@
-Anarchist,Date,Headline,,
-FALSE,May 2 1890,The Territory of Oklahoma is organized,,
-FALSE,July 3 1890,The Territory of Idaho is admitted to the Union as the State of Idaho,,
-FALSE,July 10 1890,The Territory of Wyoming is admitted to the Union as the State of Wyoming,,
-FALSE,March 4 1893,Grover Cleveland becomes the 24th president of the United States,,
-FALSE,January 4 1896,The Territory of Utah is admitted to the Union as the State of Utah,,
-FALSE,March 4 1897,William McKinley becomes the 25th president of the United States,,
-FALSE,April 23 1898,Spanish–American War,,
-FALSE,April 20 1898,Teller Amendment blocks United States annexation of Cuba,,
-FALSE,April 23 1898,The Spanish Empire declares war on the United States,,
-FALSE,June 6 1898,Invasion of Guantánamo Bay,,
-FALSE,June 20 1898,Capture of Guam,,
-FALSE,July 3 1898,Battle of Santiago de Cuba,,
-FALSE,July 25 1898,Invasion of Puerto Rico,,
-FALSE,August 12 1898,Protocol of Peace signed,,
-FALSE,December 10 1898,Treaty of Paris,,
-FALSE,December 10 1898,The United States annexes the Philippines, Porto Rico (sic), and Guam
-FALSE,January 1 1899,The United States formally occupies Cuba,,
-FALSE,March 2 1901,Platt Amendment promotes United States hegemony of Cuba,,
-FALSE,July 7 1898,The Territory of Hawaii is organized,,
-FALSE,August 22 1898,Second Samoan Civil War,,
-FALSE,November 14 1899,Anglo-German Samoa Convention,,
-FALSE,December 2 1899,The United States annexes Eastern Samoa,,
-FALSE,June 2 1899,Philippine–American War,,
-FALSE,June 12 1898,Philippine Declaration of Independence,,
-FALSE,June 2 1899,The Philippines declares war on the United States,,
-FALSE,May 2 1902,Moro Rebellion,,
-FALSE,July 1 1902,Organic Act for the Philippine Islands,,
-FALSE,July 4 1902,President Theodore Roosevelt declares the end of Philippine–American War,,
-FALSE,November 2 1899,Boxer Rebellion,,
-FALSE,June 20 1900,The Society of Right and Harmonious Fists attacks Beijing,,
-FALSE,August 14 1900,The Eight-Nation Alliance relieves Beijing,,
-FALSE,September 7 1901,The Boxer Protocol is imposed on China,,
-FALSE,September 8 1900,A hurricane strikes Galveston, Texas,
-FALSE,September 14 1901,Theodore Roosevelt becomes the 26th president of the United States,,
-FALSE,May 20 1902,The United States recognizes the independence of the Republic of Cuba,,
-FALSE,May 20 1902,The United States formally ends its occupation of Cuba,,
-FALSE,January 22 1903,The United States seizes the opportunity to build a ship canal across the Isthmus of Panama,,
-FALSE,January 22 1903,The United States and the Republic of Colombia sign the Hay–Herrán Treaty,,
-FALSE,August 12 1903,The Congress of Colombia rejects the Hay–Herrán Treaty,,
-FALSE,October 26 1903,The United States Navy patrol gunboat USS Nashville blocks Colombian attempts to suppress a Panamanian separatist movement,,
-FALSE,November 3 1903,The Republic of Panama declares its independence from the Republic of Colombia,,
-FALSE,November 4 1903,United States Marines occupy the region around the proposed canal,,
-FALSE,November 18 1903,The United States and the Republic of Panama sign the Hay–Bunau-Varilla Treaty,,
-FALSE,November 18 1903,The United States annexes the Panama Canal Zone,,
-FALSE,April 18 1906,A tremendous earthquake strikes the San Francisco region,,
-FALSE,September 29 1906,The United States reoccupies Cuba,,
-FALSE,January 6 1912,The Territory of New Mexico is admitted to the Union as the State of New Mexico,,
-FALSE,February 14 1912,The Territory of Arizona is admitted to the Union as the State of Arizona,,
-FALSE,August 24 1912,The District of Alaska is reorganized as the Territory of Alaska,,
-FALSE,February 3 1913,The Sixteenth Amendment to the United States Constitution takes effect,,
-FALSE,March 4 1913,Woodrow Wilson becomes the 28th president of the United States,,
-FALSE,April 8 1913,The Seventeenth Amendment to the United States Constitution takes effect,,
-FALSE,April 21 1914,The United States occupation of Veracruz,,
-FALSE,August 15 1914,The Panama Canal opens to shipping,,
-FALSE,July 28 1915,The United States occupation of Haiti,,
-FALSE,March 9 1916,Doroteo Arango Arámbula (Pancho Villa) orders a raid on Columbus, New Mexico,
-FALSE,March 14 1916,General John Pershing leads the Mexican Expedition,,
-FALSE,May 16 1916,The United States occupation of the Dominican Republic,,
-FALSE,January 17 1917,The United States purchases the Danish West Indies from Denmark,,
-FALSE,April 6 1917,World War I,,
-FALSE,November 11 1918,Armistice with Germany,,
-FALSE,June 28 1919,The Treaty of Versailles and the Covenant of the League of Nations are signed,,
-FALSE,March 20 1920,The United States Senate rejects the Treaty of Versailles primarily because of Article X of the Covenant of the League of Nations,,
-FALSE,July 2 1921,The United States Congress declares the end of the war,,
-FALSE,May 26 1918,Allied intervention in the Russian Civil War,,
-FALSE,April 1 1920,The American Expeditionary Force Siberia,,
-FALSE,August 5 1919,The American Expeditionary Force North Russia,,
-FALSE,January 29 1919,The Eighteenth Amendment to the United States Constitution takes effect,,
-TRUE,May 4 1886,Haymarket riot,,
-TRUE,November 11 1887,Four anarchists are hanged for allegedly throwing a bomb at Haymarket,,
-TRUE,July 11 1892,Francois Claudius Koenigstein (Ravachol) is executed in France; becomes an anarchist martyr,,
-TRUE,February 12 1894,Emile Henry detonates a bomb in the Cafe Terminus, killing one and injuring twenty,
-TRUE,September 10 1898,Elisabeth, Empress of Austria is stabbed by an anarchist,
-TRUE,July 29 1900,Umberto I of Italy is assassinated by anarchist Gaetano Bresci,,
-TRUE,September 6 1901,President William McKinley is shot by an anarchist,,
-TRUE,Nov-19,Palmer Raids begin,,
-TRUE,December 21 1919,249 political radicals are deported including anarchist leader Emma Goldman,,
-TRUE,September 16 1920,A bomb explodes on Wall Street killing 38,,
+Anarchist,Date,Headline
+FALSE,02-05-1890,The Territory of Oklahoma is organized
+FALSE,03-07-1890,The Territory of Idaho is admitted to the Union as the State of Idaho
+FALSE,10-07-1890,The Territory of Wyoming is admitted to the Union as the State of Wyoming
+FALSE,04-03-1893,Grover Cleveland becomes the 24th president of the United States
+FALSE,04-01-1896,The Territory of Utah is admitted to the Union as the State of Utah
+FALSE,04-03-1897,William McKinley becomes the 25th president of the United States
+FALSE,23-04-1898,Spanish–American War
+FALSE,20-04-1898,Teller Amendment blocks United States annexation of Cuba
+FALSE,23-04-1898,The Spanish Empire declares war on the United States
+FALSE,06-06-1898,Invasion of Guantánamo Bay
+FALSE,20-06-1898,Capture of Guam
+FALSE,03-07-1898,Battle of Santiago de Cuba
+FALSE,25-07-1898,Invasion of Puerto Rico
+FALSE,12-08-1898,Protocol of Peace signed
+FALSE,10-12-1898,Treaty of Paris
+FALSE,10-12-1898,The United States annexes the Philippines Porto Rico (sic) and Guam
+FALSE,01-01-1899,The United States formally occupies Cuba
+FALSE,02-03-1901,Platt Amendment promotes United States hegemony of Cuba
+FALSE,07-07-1898,The Territory of Hawaii is organized
+FALSE,22-08-1898,Second Samoan Civil War
+FALSE,14-11-1899,Anglo-German Samoa Convention
+FALSE,02-12-1899,The United States annexes Eastern Samoa
+FALSE,02-06-1899,Philippine–American War
+FALSE,12-06-1898,Philippine Declaration of Independence
+FALSE,02-06-1899,The Philippines declares war on the United States
+FALSE,02-05-1902,Moro Rebellion
+FALSE,01-07-1902,Organic Act for the Philippine Islands
+FALSE,04-07-1902,President Theodore Roosevelt declares the end of Philippine–American War
+FALSE,02-11-1899,Boxer Rebellion
+FALSE,20-06-1900,The Society of Right and Harmonious Fists attacks Beijing
+FALSE,14-08-1900,The Eight-Nation Alliance relieves Beijing
+FALSE,07-09-1901,The Boxer Protocol is imposed on China
+FALSE,08-09-1900,A hurricane strikes Galveston Texas
+FALSE,14-09-1901,Theodore Roosevelt becomes the 26th president of the United States
+FALSE,20-05-1902,The United States recognizes the independence of the Republic of Cuba
+FALSE,20-05-1902,The United States formally ends its occupation of Cuba
+FALSE,22-01-1903,The United States seizes the opportunity to build a ship canal across the Isthmus of Panama
+FALSE,22-01-1903,The United States and the Republic of Colombia sign the Hay–Herrán Treaty
+FALSE,12-08-1903,The Congress of Colombia rejects the Hay–Herrán Treaty
+FALSE,26-10-1903,The United States Navy patrol gunboat USS Nashville blocks Colombian attempts to suppress a Panamanian separatist movement
+FALSE,03-11-1903,The Republic of Panama declares its independence from the Republic of Colombia
+FALSE,04-11-1903,United States Marines occupy the region around the proposed canal
+FALSE,18-11-1903,The United States and the Republic of Panama sign the Hay–Bunau-Varilla Treaty
+FALSE,18-11-1903,The United States annexes the Panama Canal Zone
+FALSE,18-04-1906,A tremendous earthquake strikes the San Francisco region
+FALSE,29-09-1906,The United States reoccupies Cuba
+FALSE,06-01-1912,The Territory of New Mexico is admitted to the Union as the State of New Mexico
+FALSE,14-02-1912,The Territory of Arizona is admitted to the Union as the State of Arizona
+FALSE,24-08-1912,The District of Alaska is reorganized as the Territory of Alaska
+FALSE,03-02-1913,The Sixteenth Amendment to the United States Constitution takes effect
+FALSE,04-03-1913,Woodrow Wilson becomes the 28th president of the United States
+FALSE,08-04-1913,The Seventeenth Amendment to the United States Constitution takes effect
+FALSE,21-04-1914,The United States occupation of Veracruz
+FALSE,15-08-1914,The Panama Canal opens to shipping
+FALSE,28-07-1915,The United States occupation of Haiti
+FALSE,09-03-1916,Doroteo Arango Arámbula (Pancho Villa) orders a raid on Columbus New Mexico
+FALSE,14-03-1916,General John Pershing leads the Mexican Expedition
+FALSE,16-05-1916,The United States occupation of the Dominican Republic
+FALSE,17-01-1917,The United States purchases the Danish West Indies from Denmark
+FALSE,06-04-1917,World War I
+FALSE,11-11-1918,Armistice with Germany
+FALSE,28-06-1919,The Treaty of Versailles and the Covenant of the League of Nations are signed
+FALSE,20-03-1920,The United States Senate rejects the Treaty of Versailles primarily because of Article X of the Covenant of the League of Nations
+FALSE,02-07-1921,The United States Congress declares the end of the war
+FALSE,26-05-1918,Allied intervention in the Russian Civil War
+FALSE,01-04-1920,The American Expeditionary Force Siberia
+FALSE,05-08-1919,The American Expeditionary Force North Russia
+FALSE,29-01-1919,The Eighteenth Amendment to the United States Constitution takes effect
+TRUE,04-05-1886,Haymarket riot
+TRUE,11-11-1887,Four anarchists are hanged for allegedly throwing a bomb at Haymarket
+TRUE,11-07-1892,Francois Claudius Koenigstein (Ravachol) is executed in France; becomes an anarchist martyr
+TRUE,12-02-1894,Emile Henry detonates a bomb in the Cafe Terminus killing one and injuring twenty
+TRUE,10-09-1898,Elisabeth Empress of Austria is stabbed by an anarchist
+TRUE,29-07-1900,Umberto I of Italy is assassinated by anarchist Gaetano Bresci
+TRUE,06-09-1901,President William McKinley is shot by an anarchist
+TRUE,19-11-1919,Palmer Raids begin
+TRUE,21-12-1919,249 political radicals are deported including anarchist leader Emma Goldman
+TRUE,16-09-1920,A bomb explodes on Wall Street killing 38
