@@ -36,13 +36,13 @@
     <div class="block"> 
         <h4>Overview:</h4>
         <p> 
-            This project aimed to take the New York Times as an example of a mainstream news publication and discover if they were using anarchists as scapegoats during periods of social unrest. Using the NYT API to collect headline data for 1885 through 1920, I curated a collection of frequency-time plots plotting the frequency of mentions of the words anarchist, anarchists, and anarchism. I chose these words expressly because they represent anarchism directly, unlike words such as anarchy, which can be used in various contexts. Underneath these plots, I also created a timeline of key events in US history with key anarchist events along the bottom. General historical events are plotted in blue, while the anarchist events are planned in red. Below the timeline is a mechanism to get all the headlines, by month, from 1885 to 1920 that mention the keywords. Combining these three elements, we can analyze the data reasonably well. 
+            This project aimed to take the New York Times as an example of a mainstream news publication and discover if they were using anarchists as scapegoats during periods of social unrest. Using the NYT API to collect headline data for 1885 through 1920, I curated a collection of frequency-time plots plotting the frequency of mentions of the words anarchist, anarchists, and anarchism. I chose these words expressly because they represent anarchism directly, unlike words such as anarchy, which can be used in various contexts. Underneath these plots, I created a timeline of key events in US history, segregated via anarchist connected or not, with general events on the top and anarchist events along the bottom. General historical events are plotted in blue, while the anarchist events are plotted in red. Below the timeline is a mechanism to get all the headlines, by month, from 1885 to 1920 that mention the keywords. Combining these three elements, we can analyze the data reasonably well. 
              <br><br>
             The graphs above make it very easy to see the peaks and troughs of mentions. We can immediately see that the most notable peaks align with key anarchist events. For example, the month with the most mentions was September 1901, the year in which an anarchist assassinated President William McKinley. For most other months, we only see between zero and ten mentions of anarchists. Even during periods of intense social unrest, like during the First World War, we see some of the lowest frequency of mentions. 
              <br><br>
             The data makes it quite clear that there was not a systematic scapegoating of anarchists at the NYTs. That's not to say that it wasn't happening at all. Still, the infrequency of mentions in periods where significant anarchist activity was not taking place suggests that it was either taking place on a tiny scale or not at all. 
              <br><br>
-            Yet, this does not mean that the NYT's coverage of anarchists was not skewed. If we look at the language used in the headlines, the words are pretty loaded on many occasions. I will list a very inexhaustive list of what I see to be skewed coverage: <br>
+            Yet, this does not mean that the NYT's coverage of anarchists was not skewed. If we look at the language used in the headlines, the words are negatively loaded on many occasions. I will list a very inexhaustive list of what I see to be skewed coverage: <br>
              1886-06-01T05:00:00+0000 A COWARDLY ANARCHIST.<br>
             1901-09-13T05:00:00+0000 THE SOURCES OF THE ANARCHIST DISEASE.<br>
             1908-03-25T05:00:00+0000 KILLING WAS JUSTIFIED.; Chicago Police Chief Exonerated for Shooting Anarchist Assailant.<br>
@@ -57,12 +57,12 @@
     </div>
 
     <div class="block"> 
-        <i>To zoom into the plot cligk and drag horizontally, to zoom back out double click the plot</i>
+        <i>To zoom into the plot click and drag horizontally, to zoom back out double click the plot</i>
         <iframe src="ArticlesByMonth.html" width="100%" height="400"></iframe>
     </div> 
 
     <div class="block"> 
-        <i>To zoom into the plot cligk and drag horizontally, to zoom back out double click the plot</i>
+        <i>To zoom into the plot click and drag horizontally, to zoom back out double click the plot</i>
         <iframe src="historical_timeline.html" width="100%" height="300"></iframe>
     </div> 
 
